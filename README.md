@@ -3,7 +3,7 @@
 
 A data analysis project exploring pricing, ratings, and review patterns across 1,400+ Amazon products — uncovering how discounts, categories, and customer sentiment actually relate to one another.
 
-📄 **[View the full report on Gamma →](https://gamma.app/docs/Amazon-Product-Dataset-Analysis-dx347m99ktol2oi)**
+📄 **[View the full report on Gamma →](https://amazon-product-dataset-a-j2l5vks.gamma.site/)**
 
 ---
 
